@@ -1,2 +1,27 @@
 # MCSCP
 Datapack for Minecraft 1.16.5 incorporating SCPs
+
+Manual:
+
+
+
+173:
+
+
+/function 173:control/create
+Creates SCP 173.
+
+/function 173:control/destroy
+Destroys SCP 173 (if one exists).
+
+/function 173:control/switch
+Switches the operations being done to keep SCP 173 running on/off.
+
+
+Notes:
+
+
+Creating more than one instance of SCP 173 will not work.
+
+
+
