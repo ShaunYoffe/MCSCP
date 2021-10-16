@@ -1,8 +1,8 @@
-# MCSCP
+# M͟C͟S͟C͟P͟
 
-**Datapack for Minecraft 1.16.5 incorporating SCPs**
+**Datapack for Minecraft 1.16.5 incorporating SCPs.**
 
->## Manual:
+>## 📙Manual:
 >
 >>### SCP-173:
 >>
@@ -15,11 +15,8 @@
 >>- `/function 173:control/switch`  
 >>Switches the operations being done to keep SCP-173 running on/off.
 >
->## Notes:
+>## 📝Notes:
 >
->- Creating more than one instance of SCP-173 will not work.
+>- Creating more than one instance of SCP-173 will not work. 😟
 >
->- Submerging SCP-173 in water will turn it into a Drowned and break it.
-
-
-
+>- Submerging SCP-173 in water will turn it into a Drowned and break it. 😟
