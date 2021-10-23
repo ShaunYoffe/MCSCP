@@ -18,5 +18,3 @@
 >## 📝Notes:
 >
 >- Creating more than one instance of SCP-173 will not work. 😟
->
->- Submerging SCP-173 in water will turn it into a Drowned and break it. 😟
