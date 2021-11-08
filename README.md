@@ -11,9 +11,6 @@
 >>
 >>- `/function 173:control/destroy`  
 >>Destroys SCP-173 (if one exists).
->>
->>- `/function 173:control/switch`  
->>Switches the operations being done to keep SCP-173 running on/off.
 >
 >>### SCP-049:
 >>
