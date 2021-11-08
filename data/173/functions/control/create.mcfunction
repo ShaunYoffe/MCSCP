@@ -1,2 +1,2 @@
-execute if entity @e[tag=173] run tellraw @s [{"text":"SCP-173 already exists! Use ", "color":"#f5300f"},{"text":"173:control/destroy", "color":"#0ddddd"},{"text":" and try again!", "color":"#f5300f"}]
+execute if entity @e[tag=173] run tellraw @s [{"text":"SCP-173 already exists! Use ", "color":"#f5300f"},{"text":"/function 173:control/destroy", "color":"#0ddddd"},{"text":" and try again!", "color":"#f5300f"}]
 execute unless entity @e[tag=173] run function 173:control/createunsafely
