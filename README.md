@@ -15,6 +15,16 @@
 >>- `/function 173:control/switch`  
 >>Switches the operations being done to keep SCP-173 running on/off.
 >
+>>### SCP-049:
+>>
+>>- `/function 049:control/create`  
+>>Creates an instance of SCP-049.
+>>
+>>- `/function 049:control/destroy`  
+>>Destroys all instances of SCP-049 (if any exist).
+>
 >## 📝Notes:
 >
 >- Creating more than one instance of SCP-173 will not work. 😟
+>
+>- If more than one instance of SCP-049 exists, they may cure the same player twice. 🤨

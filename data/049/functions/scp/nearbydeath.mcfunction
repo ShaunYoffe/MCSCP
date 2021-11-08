@@ -1,0 +1,1 @@
+summon husk ~ ~ ~ {CanPickUpLoot:1b,HandDropChances:[1.0f, 1.0f],ArmorDropChances:[1.0f,1.0f,1.0f,1.0f],CanBreakDoors:0b,PersistenceRequired:1,DeathLootTable:"minecraft:empty",CustomName:'"SCP-049-2"',Attributes:[{Name:"generic.follow_range",Base:2048d}],ActiveEffects:[{Id:20,Amplifier:0,Duration:999999,ShowParticles:0b}]}
