@@ -1,0 +1,1 @@
+execute if entity @e[tag=457] run function 457:scp/logic

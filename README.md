@@ -10,7 +10,7 @@
 >>Creates SCP-173.
 >>
 >>- `/function 173:control/destroy`  
->>Destroys SCP-173 (if one exists).
+>>Destroys SCP-173.
 >
 >>### SCP-049:
 >>
@@ -18,7 +18,18 @@
 >>Creates an instance of SCP-049.
 >>
 >>- `/function 049:control/destroy`  
->>Destroys all instances of SCP-049 (if any exist).
+>>Destroys all instances of SCP-049.
+>
+>>### SCP-457:
+>>
+>>- `/function 457:control/create`  
+>>Creates an instance of SCP-457.
+>>
+>>- `/function 457:control/destroy`  
+>>Destroys all instances of SCP-457.
+>>
+>>- `/function 457:scp/fireball`  
+>>Makes every instance of SCP-457 fire 8 fireballs (This is executed automatically every 15 seconds).
 >
 >## 📝Notes:
 >
