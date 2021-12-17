@@ -1,6 +1,6 @@
 # M͟C͟S͟C͟P͟
 
-**Datapack for Minecraft 1.17.1 incorporating SCPs.**
+**Datapack for Minecraft 1.18.1 incorporating SCPs.**
 
 >## 📙Manual:
 >

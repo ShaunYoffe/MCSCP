@@ -34,14 +34,6 @@
 
         "minecraft:piston_head",
 
-        "minecraft:grass",  
-        "minecraft:tall_grass",
-
-        "minecraft:fern",
-        "minecraft:large_fern",
-
-        "minecraft:dead_bush",
-
         "minecraft:sugar_cane",
 
         "minecraft:brown_mushroom",
@@ -126,6 +118,30 @@
         "minecraft:dead_tube_coral_fan",
         "minecraft:dead_brain_coral_fan",
 
+        "minecraft:small_amethyst_bud",
+        "minecraft:medium_amethyst_bud",
+        "minecraft:large_amethyst_bud",
+
+        "minecraft:small_dripleaf",
+        "minecraft:big_dripleaf",
+
+        "minecraft:light",
+
+        "minecraft:lightning_rod",
+
+        "minecraft:moss_carpet",
+
+        "minecraft:pointed_dripstone",
+
+        "minecraft:sculk_sensor",
+
+        "minecraft:spore_blossom",
+
+        "#minecraft:candles",
+        "#minecraft:candle_cakes",
+
+        "#minecraft:replaceable_plants",
+
         "#minecraft:fences",
         "#minecraft:fence_gates",
 
@@ -142,7 +158,7 @@
 
         "#minecraft:wall_post_override",
 
-        "#minecraft:prevent_mob_spawning_inside",
+        "#minecraft:rails",
 
         "#minecraft:underwater_bonemeals",
 
